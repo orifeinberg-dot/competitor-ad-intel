@@ -1,0 +1,6 @@
+apify-client
+python-dotenv
+anthropic
+requests
+imageio-ffmpeg
+openai
